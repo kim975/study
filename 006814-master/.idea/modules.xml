@@ -37,6 +37,21 @@
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_mock-3/iloveyouboss_mock-3.iml" filepath="$PROJECT_DIR$/iloveyouboss_mock-3/iloveyouboss_mock-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_mock-4/iloveyouboss_mock-4.iml" filepath="$PROJECT_DIR$/iloveyouboss_mock-4/iloveyouboss_mock-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_mock-5/iloveyouboss_mock-5.iml" filepath="$PROJECT_DIR$/iloveyouboss_mock-5/iloveyouboss_mock-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-01/iloveyouboss_tdd-01.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-01/iloveyouboss_tdd-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-02/iloveyouboss_tdd-02.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-02/iloveyouboss_tdd-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-03/iloveyouboss_tdd-03.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-03/iloveyouboss_tdd-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-04/iloveyouboss_tdd-04.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-04/iloveyouboss_tdd-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-05/iloveyouboss_tdd-05.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-05/iloveyouboss_tdd-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-06/iloveyouboss_tdd-06.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-06/iloveyouboss_tdd-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-07/iloveyouboss_tdd-07.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-07/iloveyouboss_tdd-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-08/iloveyouboss_tdd-08.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-08/iloveyouboss_tdd-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-09/iloveyouboss_tdd-09.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-09/iloveyouboss_tdd-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-10/iloveyouboss_tdd-10.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-10/iloveyouboss_tdd-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-11/iloveyouboss_tdd-11.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-11/iloveyouboss_tdd-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-12/iloveyouboss_tdd-12.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-12/iloveyouboss_tdd-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-13/iloveyouboss_tdd-13.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-13/iloveyouboss_tdd-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-14/iloveyouboss_tdd-14.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-14/iloveyouboss_tdd-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_tdd-15/iloveyouboss_tdd-15.iml" filepath="$PROJECT_DIR$/iloveyouboss_tdd-15/iloveyouboss_tdd-15.iml" />
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_test-01/iloveyouboss_test-01.iml" filepath="$PROJECT_DIR$/iloveyouboss_test-01/iloveyouboss_test-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_test-02/iloveyouboss_test-02.iml" filepath="$PROJECT_DIR$/iloveyouboss_test-02/iloveyouboss_test-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_test-03/iloveyouboss_test-03.iml" filepath="$PROJECT_DIR$/iloveyouboss_test-03/iloveyouboss_test-03.iml" />
@@ -46,7 +61,6 @@
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_test-07/iloveyouboss_test-07.iml" filepath="$PROJECT_DIR$/iloveyouboss_test-07/iloveyouboss_test-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_test-08/iloveyouboss_test-08.iml" filepath="$PROJECT_DIR$/iloveyouboss_test-08/iloveyouboss_test-08.iml" />
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_test-09/iloveyouboss_test-09.iml" filepath="$PROJECT_DIR$/iloveyouboss_test-09/iloveyouboss_test-09.iml" />
-      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_test-10/iloveyouboss_test-10.iml" filepath="$PROJECT_DIR$/iloveyouboss_test-10/iloveyouboss_test-10.iml" />
     </modules>
   </component>
 </project>
