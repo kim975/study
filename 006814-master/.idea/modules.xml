@@ -61,6 +61,10 @@
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_test-07/iloveyouboss_test-07.iml" filepath="$PROJECT_DIR$/iloveyouboss_test-07/iloveyouboss_test-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_test-08/iloveyouboss_test-08.iml" filepath="$PROJECT_DIR$/iloveyouboss_test-08/iloveyouboss_test-08.iml" />
       <module fileurl="file://$PROJECT_DIR$/iloveyouboss_test-09/iloveyouboss_test-09.iml" filepath="$PROJECT_DIR$/iloveyouboss_test-09/iloveyouboss_test-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_thread-1/iloveyouboss_thread-1.iml" filepath="$PROJECT_DIR$/iloveyouboss_thread-1/iloveyouboss_thread-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_thread-2/iloveyouboss_thread-2.iml" filepath="$PROJECT_DIR$/iloveyouboss_thread-2/iloveyouboss_thread-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_thread-3/iloveyouboss_thread-3.iml" filepath="$PROJECT_DIR$/iloveyouboss_thread-3/iloveyouboss_thread-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss_thread-4/iloveyouboss_thread-4.iml" filepath="$PROJECT_DIR$/iloveyouboss_thread-4/iloveyouboss_thread-4.iml" />
     </modules>
   </component>
 </project>
