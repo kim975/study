@@ -6,10 +6,6 @@ import java.util.Scanner;
  * 저작권 : https://www.acmicpc.net/problem/2914
  */
 public class 저작권 {
-
-}
-
-class Main{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int A = sc.nextInt();
@@ -18,3 +14,4 @@ class Main{
         System.out.println(A * (B - 1) + 1);
     }
 }
+
